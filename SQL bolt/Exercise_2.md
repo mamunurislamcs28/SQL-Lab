@@ -1,3 +1,10 @@
+# Exercise 2
+
+## Overview
+This exercise demonstrates the implementation and results for Exercise 2.  
+The following screenshots show the output and steps performed during the exercise.
+
+
 <img width="1427" height="696" alt="image" src="https://github.com/user-attachments/assets/923e5b55-bba3-4311-adf7-57503d9ae7e8" />
 
 <img width="1443" height="711" alt="image" src="https://github.com/user-attachments/assets/42557cf6-0a2b-4d10-b799-982e350e0b72" />
